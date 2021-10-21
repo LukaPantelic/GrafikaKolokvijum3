@@ -1,0 +1,68 @@
+C:\Users\Luka\Desktop\pz3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\bin\Debug\PR115-2016_Luka_Pantelic.exe.config
+C:\Users\Luka\Desktop\pz3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\bin\Debug\PR115-2016_Luka_Pantelic.exe
+C:\Users\Luka\Desktop\pz3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\bin\Debug\PR115-2016_Luka_Pantelic.pdb
+C:\Users\Luka\Desktop\pz3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.csprojAssemblyReference.cache
+C:\Users\Luka\Desktop\pz3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\MainWindow.g.cs
+C:\Users\Luka\Desktop\pz3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\App.g.cs
+C:\Users\Luka\Desktop\pz3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic_MarkupCompile.cache
+C:\Users\Luka\Desktop\pz3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic_MarkupCompile.lref
+C:\Users\Luka\Desktop\pz3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\MainWindow.baml
+C:\Users\Luka\Desktop\pz3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.g.resources
+C:\Users\Luka\Desktop\pz3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115_2016_Luka_Pantelic.Properties.Resources.resources
+C:\Users\Luka\Desktop\pz3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.csproj.GenerateResource.cache
+C:\Users\Luka\Desktop\pz3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\pz3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.exe
+C:\Users\Luka\Desktop\pz3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.pdb
+C:\Users\Luka\Desktop\pz3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\Tip.g.cs
+C:\Users\Luka\Desktop\pz3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\Tip.baml
+C:\Users\Luka\Desktop\fakultet\rva-web\(NEPOLOZEN) WEB\Teorija\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\bin\Debug\PR115-2016_Luka_Pantelic.exe.config
+C:\Users\Luka\Desktop\fakultet\rva-web\(NEPOLOZEN) WEB\Teorija\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\bin\Debug\PR115-2016_Luka_Pantelic.exe
+C:\Users\Luka\Desktop\fakultet\rva-web\(NEPOLOZEN) WEB\Teorija\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\bin\Debug\PR115-2016_Luka_Pantelic.pdb
+C:\Users\Luka\Desktop\fakultet\rva-web\(NEPOLOZEN) WEB\Teorija\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.csprojAssemblyReference.cache
+C:\Users\Luka\Desktop\fakultet\rva-web\(NEPOLOZEN) WEB\Teorija\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\MainWindow.g.cs
+C:\Users\Luka\Desktop\fakultet\rva-web\(NEPOLOZEN) WEB\Teorija\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\Tip.g.cs
+C:\Users\Luka\Desktop\fakultet\rva-web\(NEPOLOZEN) WEB\Teorija\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\App.g.cs
+C:\Users\Luka\Desktop\fakultet\rva-web\(NEPOLOZEN) WEB\Teorija\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic_MarkupCompile.cache
+C:\Users\Luka\Desktop\fakultet\rva-web\(NEPOLOZEN) WEB\Teorija\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic_MarkupCompile.lref
+C:\Users\Luka\Desktop\fakultet\rva-web\(NEPOLOZEN) WEB\Teorija\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\MainWindow.baml
+C:\Users\Luka\Desktop\fakultet\rva-web\(NEPOLOZEN) WEB\Teorija\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\Tip.baml
+C:\Users\Luka\Desktop\fakultet\rva-web\(NEPOLOZEN) WEB\Teorija\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.g.resources
+C:\Users\Luka\Desktop\fakultet\rva-web\(NEPOLOZEN) WEB\Teorija\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115_2016_Luka_Pantelic.Properties.Resources.resources
+C:\Users\Luka\Desktop\fakultet\rva-web\(NEPOLOZEN) WEB\Teorija\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.csproj.GenerateResource.cache
+C:\Users\Luka\Desktop\fakultet\rva-web\(NEPOLOZEN) WEB\Teorija\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\fakultet\rva-web\(NEPOLOZEN) WEB\Teorija\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.exe
+C:\Users\Luka\Desktop\fakultet\rva-web\(NEPOLOZEN) WEB\Teorija\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.pdb
+C:\Users\Luka\Desktop\fakultet\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\bin\Debug\PR115-2016_Luka_Pantelic.exe.config
+C:\Users\Luka\Desktop\fakultet\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\bin\Debug\PR115-2016_Luka_Pantelic.exe
+C:\Users\Luka\Desktop\fakultet\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\bin\Debug\PR115-2016_Luka_Pantelic.pdb
+C:\Users\Luka\Desktop\fakultet\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.csprojAssemblyReference.cache
+C:\Users\Luka\Desktop\fakultet\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\MainWindow.g.cs
+C:\Users\Luka\Desktop\fakultet\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\Tip.g.cs
+C:\Users\Luka\Desktop\fakultet\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\App.g.cs
+C:\Users\Luka\Desktop\fakultet\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic_MarkupCompile.cache
+C:\Users\Luka\Desktop\fakultet\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic_MarkupCompile.lref
+C:\Users\Luka\Desktop\fakultet\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\MainWindow.baml
+C:\Users\Luka\Desktop\fakultet\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\Tip.baml
+C:\Users\Luka\Desktop\fakultet\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.g.resources
+C:\Users\Luka\Desktop\fakultet\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115_2016_Luka_Pantelic.Properties.Resources.resources
+C:\Users\Luka\Desktop\fakultet\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.csproj.GenerateResource.cache
+C:\Users\Luka\Desktop\fakultet\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\fakultet\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.exe
+C:\Users\Luka\Desktop\fakultet\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.pdb
+E:\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\bin\Debug\PR115-2016_Luka_Pantelic.exe.config
+E:\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\bin\Debug\PR115-2016_Luka_Pantelic.exe
+E:\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\bin\Debug\PR115-2016_Luka_Pantelic.pdb
+E:\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.csprojAssemblyReference.cache
+E:\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\MainWindow.g.cs
+E:\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\Tip.g.cs
+E:\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\App.g.cs
+E:\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic_MarkupCompile.cache
+E:\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic_MarkupCompile.lref
+E:\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\MainWindow.baml
+E:\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\Tip.baml
+E:\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.g.resources
+E:\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115_2016_Luka_Pantelic.Properties.Resources.resources
+E:\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.csproj.GenerateResource.cache
+E:\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.csproj.CoreCompileInputs.cache
+E:\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.exe
+E:\grafika\kolokvijum3\PR115-2016_Luka_Pantelic\PR115-2016_Luka_Pantelic\obj\Debug\PR115-2016_Luka_Pantelic.pdb
